@@ -1,0 +1,4 @@
+//<'nzf_reconSystem.pbo' properties via Mikero's dos tools, dll version 9.10>
+prefix=nzf_reconSystem;
+//PboType=Arma Addon;
+//</properties>
